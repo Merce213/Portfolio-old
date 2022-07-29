@@ -16,7 +16,7 @@ const About = () => {
                 <p className="text-xl mt-20">
                     Après une terminale S SI non achevé dû à des problèmes de
                     santé, j'ai décidé d'apprendre à coder. Je me suis intéressé
-                    au développement web et logiciels car j'étais curieux de
+                    au développement web et logiciel car j'étais curieux de
                     savoir comment les sites fonctionnaient étant un grand
                     utilisateur d'internet depuis petit.
                 </p>
