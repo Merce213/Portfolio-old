@@ -6,6 +6,6 @@ My portfolio
 
 In the /frontend directory, you can run:
 
-### `npm start`
+### `npm install && npm start`
 
 To start and explore my Portfolio.
